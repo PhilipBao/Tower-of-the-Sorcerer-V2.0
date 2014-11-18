@@ -11,7 +11,7 @@ Install Python 2.7 :https://www.python.org/downloads/ and Pygame :http://www.pyg
 Using arrows on the keyboard to move and attack.   
 Have fun !!!
 
-Here is some hints:
+Here is some hints:                                                                                                         
 1.At the beginning of the game, key is not that important.                                                                 
 2.slime =  attack, skeleton =  defense, Royal guard = "something else". Boss = U win                                      
 3.HP and yellow key will make sure you stand at stage 4                                                                    
