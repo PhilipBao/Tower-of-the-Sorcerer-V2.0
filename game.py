@@ -27,6 +27,7 @@ def instruction():
     instructionfont = pygame.font.Font("./Font/PittoresqJugendstil.ttf", 25)
     message = ('                       T o w e r  o f  t h e  S o r c e r e r  V2.0',\
                '                              Developed by:',\
+               '                                 Yicheng Chen           ',\
                '                                 W e i y u a n  B a o           ',\
                'SPECIAL thx to my pro cs friend---- Edward Tan          ',\
                'Hope U will get to university of waterloo next year as u wish !!!          ',\
