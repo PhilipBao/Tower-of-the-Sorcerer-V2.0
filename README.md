@@ -12,9 +12,9 @@ Using arrows on the keyboard to move and attack.
 Have fun !!!
 
 Here is some hints:
-1. At the beginning of the game, key is not that important.
-2. slime =  attack, skeleton =  defense, Royal guard = "something else". Boss = U win
-3. HP and yellow key will make sure you stand in stage 4
-4. When the final red head boss killed, the game is over.
+1.At the beginning of the game, key is not that important.
+2.slime =  attack, skeleton =  defense, Royal guard = "something else". Boss = U win
+3.HP and yellow key will make sure you stand in stage 4
+4.When the final red head boss killed, the game is over.
 
 Written at 2014-04-20
